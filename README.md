@@ -4,3 +4,19 @@ Cat-Milk-Broom is an english version of a game called Billi-Danda-Doodh. I saw s
 So play it and enjoy your leisure......  
 
 **About Project:**  It has been implemented using HTML5, CSS and JavaScript.
+
+--The Game:
+
+
+User🐈               🧹Computer
+           USER OUT
+
+User🧹               🥛Computer
+           USER OUT
+
+User🥛               🐈Computer 
+           USER OUT
+
+       AND VICE VERSA
+
+
