@@ -8,14 +8,14 @@ So play it and enjoy your leisure......
 --The Game:
 
 
-User🐈               🧹Computer
-           USER OUT
+User🐈   --            🧹Computer
+           (USER OUT)
 
-User🧹               🥛Computer
-           USER OUT
+User🧹    --           🥛Computer
+           (USER OUT)
 
-User🥛               🐈Computer 
-           USER OUT
+User🥛    --           🐈Computer 
+           (USER OUT)
 
        AND VICE VERSA
 
